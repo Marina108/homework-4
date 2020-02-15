@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+.first-element {
+	text-align: center;
+	margin-left: 100px;
+	width: 500px;
+	height: 250px;
+	border: 2px solid red;
+	border-radius: 10px;
+	background-color: #cfcfcf;
+}
+
+.second-element {
+	text-align: center;
+	width: 600px;
+	height: 250px;
+	border: 2px solid blue;
+	border-radius: 10px;
+	background-color: #cfcfcf;
+}
+
+.third-element {
+	position: relative;
+	width: 1000px;
+	height: : 200px;
+	border: 1px solid green;
+}
+
+.absolute-element {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	width: 400px;
+	height: 150px;
+	border: 1px solid red;
+}
